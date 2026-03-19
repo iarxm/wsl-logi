@@ -9,32 +9,30 @@ tags: []
 Plans are from meeting notes taken leading up to the event.  
 
 
-## Priorities
+PRIORITIES  
+Priority A: Rest. Recovery. No stressful rushing  
 
-Priority A: Rest. Recovery. No stressful rushing
 
+## Psychological Optimisation
 
-## Psychological stress management 
+Key factors to manage in preparation for content days.    
 
-Key factors to manage  
-
+Athlete 1 suggested priorities  
 ```
-Athlete 1 suggested priorities
 Optimize sleep and rest  
+
 Minimize disorganisation and rushing  
     Meals  
     Surf plans  
-    No rushing in evening to decide on dinner  
-Specific sources of stress  
-    Heat  
-    Too much socialising  
-    Too much time in the competition area.  
-    Too much time at the contest zone.  
-    Too much time surfing crowded locations.  
+    Avoid rushing. For example in evening to decide on dinner  
+
+Specific sources of stress:  
+Heat and sun exhaustion    
+Too much time socialising, in athletes area, at contest venue, surfing crowded spots.  
 ```
 
-```
 Athlete 2 Specific Priorities
+```
 Plan to avoid the feeling of being behind schedule
 Chill
 Have a good support system around training and heats  
@@ -42,6 +40,7 @@ Avoid being stuck in one place with nowhere else to surf
 ```
 
 Antidotes  
+```
 Be organized  
 Find and specify relaxing areas in advance.  
 Check in at regular intervals throughout each day.  
@@ -52,7 +51,7 @@ Check in at regular intervals throughout each day.
 Good music  
 Short meditations / yoga nidra's  
 Plan around the weather/sun  
-
+```
 
 ## Scheduling
 
@@ -64,14 +63,19 @@ Agadir Daylight
 06:40 - 18:50  
 07:40 - 19:50  
 
-Skeleton
 
-06:30 ? Meditation 15m / mobility  
-06:45 Breakfast  
-7:30  Deploy  
+SKELETON SCHEDULE
 
-20:15 Meditation 15m  
-20:30 Lights out  
+| Time  | Objective                   |
+|-------|-----------------------------|
+| 06:30 | ? Meditation 15m / mobility |
+| 06:45 | Breakfast                   |
+| 7:30  | Deploy                      |
+| 7:45  | SURF 1                      |
+| 10:00 | Break 1                     |
+|       |                             |
+| 20:15 | Meditation 15m              |
+| 20:30 | Lights out                  |
 
 
 ## Meals
