@@ -6,6 +6,9 @@ tags: []
 
 # Logistics
 
+Plans are from meeting notes taken leading up to the event.  
+
+
 ## Priorities
 
 Priority A: Rest. Recovery. No stressful rushing
