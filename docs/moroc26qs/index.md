@@ -31,31 +31,34 @@ Follow a skeleton routine and plan but be flexible around it and use it to preve
 
 | Agadir Daylight | Days     |
 |-----------------|----------|
-| 06:40 - 18:50   | Thu, Fri |
-| 07:40 - 19:50   | Sat ->   |
+| 06:40 - 18:50   | Thu, Fri, Sat |
+| 07:40 - 19:50   | Sun ->   |
 
 
-SKELETON SCHEDULE
+SKELETON TEMPLATE SCHEDULE  
+
+Sunday ->  
 
 | Time  | Objective                   |
 |-------|-----------------------------|
-| 06:30 | ? Meditation 15m / mobility |
-| 06:45 | Breakfast                   |
-| 7:30  | Deploy                      |
+| 06:00 | Meditation / Mobility 15m |
+| 06:15 | Breakfast                   |
+| ~7:00  | Deploy                      |
 |       |                             |
-| 7:45  | SURF 1                      |
-| 10:00 | Break 1                     |
+| 7:15  | SURF 1                      |
+| 9:30  | Break 1                     |
 |       |                             |
 | 20:15 | Meditation 15m              |
 | 20:30 | Lights out                  |
 
-COMP DAYS EARLY SURF TEMPLATE
+
+COMP DAYS VERY EARLY SURF [TEMPLATE]  
 
 | Time  | Objective                 |
 |-------|---------------------------|
 | 06:00 | Meditation 15m / mobility |
-| 07:15 | Deploy                    |
-| 07:30 | Surf 1                    |
+| 06:45 | Deploy                    |
+| 07:00 | Surf 1                    |
 | 08:30 | Rest period               |
 
 
@@ -121,7 +124,7 @@ Plan around the weather/sun
 
 ## Activities
 
-
+Visit Agadir market  
 
 
 ## Preparatory Days
