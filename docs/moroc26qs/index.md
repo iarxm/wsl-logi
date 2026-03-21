@@ -9,8 +9,8 @@ tags: []
 Plans are from meeting notes taken leading up to the event.  
 
 [HEAT SCHEDULER](https://docs.google.com/spreadsheets/d/1Mz6U1UYItgZbIRx0uvroPQ3fbUsVZX5AjCORPt6iRCA/edit?usp=drivesdk)  
-[ONEDRIVE URLS](https://wbyyte-my.sharepoint.com/:f:/g/personal/mail_iarom_org/IgDPaL7VkXBbSKJZW0g0uKBLAUb3NdPouiIx6qYrs5DzddU?e=WZrRFL)  
-[CLIPS GDRIVE](https://drive.google.com/drive/folders/1pAPRgteo27AA7TGvnehbD2rni8akm2k4)  
+[CLIPS ONEDRIVE](https://wbyyte-my.sharepoint.com/:f:/g/personal/mail_iarom_org/IgDPaL7VkXBbSKJZW0g0uKBLAUb3NdPouiIx6qYrs5DzddU?e=WZrRFL)  
+<---[CLIPS GDRIVE](https://drive.google.com/drive/folders/1pAPRgteo27AA7TGvnehbD2rni8akm2k4)  !--->
 
 
 ### CONTEST PREPARATION PRIORITIES  
