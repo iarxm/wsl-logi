@@ -13,10 +13,12 @@ Plans are from meeting notes taken leading up to the event.
 [CLIPS GDRIVE](https://drive.google.com/drive/folders/1pAPRgteo27AA7TGvnehbD2rni8akm2k4)  
 
 
-CONTEST PREPARATION PRIORITIES  
-Priority A: Tapering. Minimize Stress.
+### CONTEST PREPARATION PRIORITIES  
+
+Priority 0: Getting Organized.  
+Priority A: Tapering. Minimize Stress.  
 Priority B: Finding Rhythm And Flow.  
-Priority B: Building Confidence.  
+Priority B: Building Confidence, developing turns.  
 Priority C: Developing Strategic-Cognitive Flexibility.  
 
 
