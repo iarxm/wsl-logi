@@ -12,8 +12,7 @@ Plans are from meeting notes taken leading up to the event.
 [CLIPS ONEDRIVE](https://wbyyte-my.sharepoint.com/:f:/g/personal/mail_iarom_org/IgDPaL7VkXBbSKJZW0g0uKBLAUb3NdPouiIx6qYrs5DzddU?e=WZrRFL)  
 <---[CLIPS GDRIVE](https://drive.google.com/drive/folders/1pAPRgteo27AA7TGvnehbD2rni8akm2k4)  !--->
 
-
-### CONTEST PREPARATION PRIORITIES  
+### Contest Preparation Priorities
 
 Priority 0: Getting Organized.  
 Priority A: Tapering. Minimize Stress.  
@@ -22,12 +21,14 @@ Priority B: Building Confidence, developing turns.
 Priority C: Developing Strategic-Cognitive Flexibility.  
 
 
+## Project Structure
 
-## Scheduling
+### Scheduling
 
 Follow a skeleton routine and plan but be flexible around it and use it to prevent drift in core priorities.  
 
-### Structure
+
+DAYLIGHT HOURS  
 
 | Agadir Daylight | Days     |
 |-----------------|----------|
@@ -63,7 +64,7 @@ COMP DAYS VERY EARLY SURF [TEMPLATE]
 
 
 
-## Meals
+### Meals
 
 Preference to eat at home when feasible  
 
@@ -80,8 +81,16 @@ Preference to eat at home when feasible
 
 SHOPPING LIST
 
+### Cultural Activities
 
-## Psychological Optimisation
+Visit Agadir market  
+Mountain top  
+Dinosaur archaeological site  
+
+
+## Contest Specific
+
+### Psychological Optimisation
 
 Key factors to manage in preparation for content days.  
 
@@ -122,11 +131,6 @@ Plan around the weather/sun
 ```
 
 
-## Activities
-
-Visit Agadir market  
-
-
 ## Preparatory Days
 
 D1 Thu: High surf volume. Have a great day.  
@@ -144,16 +148,24 @@ Heat training itself is not a priority. The work for this has already been done 
 4. Establishing good turns within personal mastery.  
 
 
-## Contest Day Outline
+### Contest Days
 
 C1: 
-One to two heats.  
+One to two heats per athlete.  
 Generally speaking the organisers prioritise finishing the earlier rounds as soon as possible. This generally implies the first heats to surf will be on the first and second days.  
 C2: 
 
 
+### Training Location Strategy
 
-## Post Comp Technical Training
+Tides big or small?  
+Spring tides until the following week  
+
+Tamari if small. 1hr drive
+Next to Anza  
+
+
+## Post Event Technical
 
 More stress and energy. Pushing the training limits type vibes. 2x Surfs daily.  
 If it's all time pumping be open to a long day of non stop surfing.  
@@ -175,16 +187,10 @@ Carve on critical section.
 ```
 
 
-## Location Strategy
 
-Tides big or small?  
-Spring tides until the following week  
+## Embedded Visual Tools
 
-Tamari if small. 1hr drive
-Next to Anza  
-
-
-## Day Scheduler
+### Day Scheduler
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/16MQxBAfQWZx8VpBSuQ41ha8N0HfuV2-4d04qbS-LBZc/edit?usp=sharing)
 
@@ -194,11 +200,10 @@ Next to Anza
 </iframe>
 
 
-## Heat Scheduler
+### Heat Scheduler
 
 <iframe 
     src="https://docs.google.com/spreadsheets/d/1Mz6U1UYItgZbIRx0uvroPQ3fbUsVZX5AjCORPt6iRCA/edit?usp=drivesdk" 
     style="border: 0" width="700" height="1000" frameborder="0" scrolling="no">
 </iframe>
-
 
